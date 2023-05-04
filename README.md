@@ -23,3 +23,13 @@ col-division=primaryProfession, knownForTitles #name.basics
 #col-division=directors, writers # title.crew
 col-divider=","
 ```
+
+## Compiling
+
+### Release version
+
+Go to `converter/Release/` and execute `make`
+
+### Debug version
+
+Go to `converter/Debug/` and execute `make`
