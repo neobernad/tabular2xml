@@ -4,6 +4,8 @@ Run as:
 
 `./converter -i input.tsv -o output.xml`
 
+Default delimiter is ',', you may change this behaviour with the argument `col-divider`.
+
 A config file with `-c` can be especified:
 
 `./converter -c config.cfg -i input.tsv -o output.xml`
